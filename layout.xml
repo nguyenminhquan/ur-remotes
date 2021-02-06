@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<layout>
-	<row>
-		<button text="Launch Chrome" ontap="launchchrome" color="yellow" />
-	</row>
-	<row>
-		<button text="Open Youtube TV" ontap="yttv" color="red" />
-	</row>
-</layout>

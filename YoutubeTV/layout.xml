@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+ 	<row>
+      	<label id="info" textAlign="center" text="[Inactive]" color="red"/>
+    </row>
+	<row>
+		<button text="Launch" ontap="launch" color="red" />
+	</row>
+	<row>
+		<button text="Close" ontap="close" color="red" />
+	</row>
+</layout>
